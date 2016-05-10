@@ -1,0 +1,163 @@
+From:	IP-Echelon Compliance <notices.hbo@ip-echelon.com>
+Sent:	May-10-16 4:34 AM
+To:	network.abuse@smu.ca
+Subject:	Notice of Claimed Infringement from 140.184.179.105 at 2016-05-
+09T04:27:57Z - Ref. 457622423
+Attachments:	457622423.xml
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Dear St Mary's University and/or St Mary's University Subscriber,
+
+We are writing this message on behalf of HOME BOX OFFICE, INC. ("HBO"), with physical offices located 
+at 1100 Avenue of the Americas, New York, NY 10036, United States (Attention: Director of Anti-Piracy).
+
+We have information leading us to believe that the IP address 140.184.179.105 was used to download 
+or share Game of Thrones without authorization (additional details are listed below).  HBO owns the 
+copyright to Game of Thrones and the unauthorized download or distribution constitutes copyright 
+infringement.  Downloading unauthorized or unknown content is also a security risk for computers, 
+devices, and networks.
+
+Plus, it has never been easier to watch HBO programming legally in Canada, and stream HBO on your 
+favorite devices.
+
+As the owner of and/or subscriber using the IP address at the date and time below, HBO requests that 
+you immediately take the proper steps to prevent further downloading or sharing of HBO content and 
+additional infringement notices, including removing any programs used to access unauthorized content 
+and securing the network.
+
+We have a good faith belief that use of the copyrighted materials described above is not authorized by 
+the copyright owner, its agent, or the law, and we are authorized to act on behalf of the owner of an 
+exclusive right that is allegedly infringed.  This letter is not a complete statement of HBO's rights in 
+connection with this matter, and nothing contained herein constitutes an express or implied wavier of 
+any rights or remedies of HBO in connection with this matter, all of which are expressly reserved.
+
+We appreciate your assistance and thank you for your cooperation in this matter.  Your prompt 
+response is requested.  Any further enquiries can be directed to copyright@ip-echelon.com.  Please 
+include this message with your enquiry to ensure a quick response.
+
+Respectfully,
+
+Adrian Leatherland
+CEO
+IP-Echelon
+Email: copyright@ip-echelon.com
+Address: 6715 Hollywood Blvd, Los Angeles, 90028, United States
+
+- ------------- Infringement Details ----------------------------------
+Title:        Game of Thrones
+Timestamp:    2016-05-09T04:27:57Z
+IP Address:   140.184.179.105
+Port:         38388
+Type:         BitTorrent
+Torrent Hash: 6cde0270afbdb65e1b9387e1e7f6db7bdf155822
+Filename:     Game.of.Thrones.S06E03.HDTV.x264-KILLERS[rarbg]
+Filesize:     274 MB
+- ---------------------------------------------------------------------
+
+
+
+À l’abonné à St Mary's University et/ou à St Mary's University,
+
+Nous vous faisons parvenir ce message au nom de HOME BOX OFFICE, INC. ("HBO"), dont le bureau est 
+situé au 1100 Avenue of the Americas, New York, NY 10036, United States (à l’attention de: Director of 
+Anti-Piracy).
+
+Nous sommes en possession d’information nous donnant lieu de croire que l’adresse IP 140.184.179.105 
+a été utilisée afin de télécharger ou partager Game of Thrones sans autorisation (plus de précisions ci-
+dessous).  HBO détient les droits d’auteur de Game of Thrones et le téléchargement ou la distribution 
+non autorisés constituent une violation du droit d’auteur. Le téléchargement de contenus non autorisés 
+ou inconnus présente également un risque sécuritaire pour les ordinateurs, les appareils et les réseaux.
+
+De plus, il n’a jamais été aussi facile de visionner les programmes HBO de manière légale au Canada, et 
+de diffuser HBO sur vos appareils favoris.
+
+Puisque vous êtes le propriétaire et/ou abonné ayant utilisé cette adresse IP à la date et heure indiquées 
+ci-dessous, HBO vous demande de prendre des mesures immédiates pour empêcher tout futur 
+téléchargement ou partage de contenus appartenant à HBO et éviter de recevoir d’autres avis de 
+violation du droit d’auteur, y compris en supprimant tout programme informatique utilisé afin d’accéder 
+aux contenus non autorisés et en sécurisant le réseau.
+
+Nous croyons en toute bonne foi que l’utilisation du contenu protégé par le droit d’auteur décrit ci-
+dessus n’est pas autorisée par le détenteur du droit d’auteur, par son agent ou par la loi, et nous 
+sommes autorisés à agir au nom du détenteur de ce droit d’auteur exclusif censément violé.  Cette lettre 
+ne représente pas la déclaration intégrale des droits de HBO en lien avec la présente affaire, et rien dans 
+son contenu ne constitue une renonciation expresse ou implicite de la part de HBO de ses droits ou 
+recours en lien avec la présente affaire, lesquels, par la présente, sont expressément réservés.
+
+Nous vous remercions de votre soutien et de votre collaboration pour ce qui concerne la présente 
+affaire. Veuillez répondre à notre demande dans les plus brefs délais.  Pour toute question à ce sujet, 
+veuillez écrire à copyright@ip-echelon.com.  Veuillez joindre le présent avis à votre demande de 
+renseignements pour accélérer le traitement de votre demande.
+
+Respectueusement,
+
+Adrian Leatherland
+CEO
+IP-Echelon
+Email: copyright@ip-echelon.com
+Address: 6715 Hollywood Blvd, Los Angeles, 90028, United States
+
+- ------------- Détails relatifs à la violation de droit -----------------
+Titre:                Game of Thrones
+Heure et date:        2016-05-09T04:27:57Z
+Adresse IP:           140.184.179.105
+Port:                 38388
+Type:                 BitTorrent
+Adressage de torrent: 6cde0270afbdb65e1b9387e1e7f6db7bdf155822
+Nom du fichier:       Game.of.Thrones.S06E03.HDTV.x264-KILLERS[rarbg]
+Taille du fichier:    274 MB
+- ------------------------------------------------------------------------
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Infringement xmlns="http://www.acns.net/ACNS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-
+instance" xsi:schemaLocation="http://www.acns.net/ACNS http://www.acns.net/v1.2/ACNS2v1_2.xsd">
+  <Case>
+    <ID>457622423</ID>
+    <Status>Open</Status>
+    <Severity>Normal</Severity>
+  </Case>
+  <Complainant>
+    <Entity>Home Box Office, Inc.</Entity>
+    <Contact>IP-Echelon - Compliance</Contact>
+    <Address>6715 Hollywood Blvd
+Los Angeles CA 90028
+United States of America</Address>
+    <Phone>+1 (310) 606 2747</Phone>
+    <Email>copyright@ip-echelon.com</Email>
+  </Complainant>
+  <Service_Provider>
+    <Entity>St Mary"s University</Entity>
+    <Email>network.abuse@smu.ca</Email>
+  </Service_Provider>
+  <Source>
+    <TimeStamp>2016-05-09T04:27:57Z</TimeStamp>
+    <IP_Address>140.184.179.105</IP_Address>
+    <Port>38388</Port>
+    <Type>BitTorrent</Type>
+    <SubType BaseType="P2P" Protocol="BITTORRENT"/>
+    <Number_Files>1</Number_Files>
+  </Source>
+  <Content>
+    <Item>
+      <TimeStamp>2016-05-09T04:27:57Z</TimeStamp>
+      <Title>Game of Thrones</Title>
+      <FileName>Game.of.Thrones.S06E03.HDTV.x264-KILLERS[rarbg]</FileName>
+      <FileSize>287386646</FileSize>
+      <Hash Type="SHA1">6cde0270afbdb65e1b9387e1e7f6db7bdf155822</Hash>
+    </Item>
+  </Content>
+</Infringement>
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJXMY7iAAoJEN5LM3Etqs/WtJgIAKvYr5vqj7GPO/CQx1btCWxm
+XvB308chcFjMsKexaYmN50kkEDdzQjdu1gPpI5ZrO1lY1bX3prdzk1k+sjzpYmcS
+wH1dHJlOgxnoCqkTIcTTsRzh/Bp5/mvcd4FsEpMVxds4yKksUAUPY64nQvDLyIiu
+D3N+QRwoPb8hQ4t2uWAw8P0O26nUecoJhYliSabIDfpK/7OSurdjDYWZcrSiuz9k
+Uc2S32bbJi5x8HvT5NPhADqaZrLAm89yo1v0mWZWzSWoHO9J9pM3EYxRLqFBs04G
+0+wYhlviofoFP6cm+MVpcuTIhyeoxVy6zAfqh+hmEFFDkV+0+tPe0JkpohlfQeA=
+=yX/+
+-----END PGP SIGNATURE-----
