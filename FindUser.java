@@ -110,6 +110,7 @@ public class FindUser {
                                                         "\nName: " + name +
                                                         "\nEmail Address: " + emailAddress +
                                                         "\nIP: " + email.getIP() +
+                                                        "\nMAC Address: " + cellValues[2] +
                                                         "\nDate & Time: " + email.getDate() + email.getTimezone() +
                                                         "\nCase ID: " + email.getID() +
                                                         "\n"
@@ -128,7 +129,7 @@ public class FindUser {
                     }
                 }
                 if (!isCaught)
-                    writer.println("IP: " + email.getIP() + "\n Case ID: " + email.getID() + " WAS NOT CAUGHT");
+                    writer.println("IP: " + email.getIP() + "\nCase ID: " + email.getID() + " WAS NOT CAUGHT\n");
             }
             writer.close();
         } catch (IOException e) {

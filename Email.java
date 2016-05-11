@@ -57,7 +57,7 @@ public class Email {
         try { //Try to open the message file
             BufferedReader in = new BufferedReader(new FileReader(messageFile));
             //Check each line of the message file
-            String line = "";
+            String line;
             while ((line = in.readLine()) != null) {
                 //Save each into a string
                 mailBody.add(line + "\n");
